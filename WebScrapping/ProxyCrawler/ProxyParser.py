@@ -40,7 +40,6 @@ class ProxyParser:
             proxies.add(proxy)
         return proxies
 
-
     @staticmethod
     def get_proxies_2():
         url = 'https://free-proxy-list.net/'
