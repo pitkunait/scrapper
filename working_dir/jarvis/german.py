@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 from WebScrapping.ProxyCrawler import ProxyCrawler
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 re_telefon = re.compile("Telefon")
 re_email = re.compile("Email")
@@ -42,26 +42,43 @@ class GermanCrawling:
             return f"http://www.firmendb.de/deutschland/Niedersachsen_Osnabrueck_{n}.php"
 
     def check_200_validity(self, request):
+        if not hasattr(request, 'status_code'):
+            return False
+
         if request.status_code != 200:
             return False
 
-        sp = BeautifulSoup(request.content, from_encoding="UTF-8")
-        if sp.find("is using a security service for protection against"
-                   " online attacks. This process is automatic. You will be"
-                   " redirected once the validation is complete."):
+        if not self.check_content(request.content):
             return False
 
         return True
 
-    def get_links_data(self):
-        self.crawler.add_proxies()
+    def check_content(self, content):
+
+        if len(content) == 0:
+            return False
+
+        sp = BeautifulSoup(content, from_encoding="UTF-8")
+        if sp.find(text=re.compile("is using a security service for protection against")):
+            return False
+
+        if sp.find(text=re.compile("ERROR: Gateway Timeout")):
+            return False
+
+        return True
+
+    def run(self):
+        self.crawler.start_executor(20)
         for i in range(116):
             url = self.generate_url(i)
             if url in self.dict_200:
                 continue
-            resp = self.crawler.get(url, test_function=self.check_200_validity)
-            self.list_200.append(resp)
-            self.dict_200[url] = resp.content
+            self.crawler.run_parallel(self.get_links_data, url)
+
+    def get_links_data(self, url):
+        resp = self.crawler.get(url, test_function=self.check_200_validity)
+        self.list_200.append(resp)
+        self.dict_200[url] = resp.content
 
     def parse_company_links(self, content):
         temp = "http://www.firmendb.de"
@@ -146,10 +163,21 @@ class GermanCrawling:
     def check_existing_200_responses(self):
         mutable_dict = self.dict_200.copy()
         for i, k in self.dict_200.items():
-            if not self.check_200_validity(k):
+            if not self.check_content(k):
+                # print(i, 'invalid')
                 mutable_dict.pop(i)
+            # else:
+            #     # print(i, 'valid')
+        self.dict_200 = mutable_dict
+
 
 
 if __name__ == '__main__':
     crawler = GermanCrawling()
-    crawler.get_links_data()
+    crawler.run()
+    # crawler.check_existing_200_responses()
+    crawler.dump_200_dict()
+    #
+    # crawler.crawler.stop_executor()
+    # # crawler.crawler.status()
+    # crawler.dump_200_dict()
