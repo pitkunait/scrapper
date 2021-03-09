@@ -1,17 +1,10 @@
-import os
 from time import sleep
 from typing import Union
+import platform
 
-# from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
-# from seleniumrequests.request import RequestMixin
 from seleniumwire import webdriver
-
-
-# class Chrome(webdriver.Chrome, RequestMixin):
-#     pass
-
 
 
 class SeleniumService:
@@ -50,19 +43,20 @@ class SeleniumService:
         self.driver_type = 'firefox'
 
     def get_executable(self, driver):
-        sysname = os.uname().sysname
+
+        sysname = platform.system()
+
         if sysname == "Darwin":
             return f'WebScrapping/Selenium/drivers/mac/{driver}'
         elif sysname == "Linux":
             return f'automation/src/linux/{driver}'
         elif sysname == "Windows":
-            return f'automation/src/windows/{driver}'
+            return f'WebScrapping/Selenium/drivers/windows/{driver}.exe'
         else:
             raise ValueError(f"OS name is incorrect: {sysname}")
 
     def generate_chrome_options(self):
         self.options = webdriver.ChromeOptions()
-        # self.options.add_argument("--user-data-dir=automation/user-data/chrome")
         self.options.add_argument("--disable-blink-features=AutomationControlled")
         self.options.add_argument("--disable-web-security")
         self.options.add_argument("--allow-running-insecure-content")
