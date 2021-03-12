@@ -3,9 +3,10 @@ import json
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.keys import Keys
 from json.decoder import JSONDecodeError
 scrapper = SeleniumService()
-import numpy
+
 
 def get_js_script(start):
     return """a = await fetch("https://app.dnbhoovers.com/api/search", {
@@ -41,18 +42,19 @@ scrapper.driver.find_element_by_css_selector("button[type='submit'][tabindex='3'
 scrapper.driver.find_element_by_id('password').send_keys('Northface14!')
 scrapper.driver.find_element_by_css_selector("button[type='submit'][tabindex='2']").click()
 
-bounds = [0.011, 0.012]
-count = 2400
+bounds = [0.060, 0.061]
+count = 21150
 for i in range(1000):
 
     bounds = [round(i+0.001, 3) for i in bounds]
 
-    for i in range(400):
+    for k in range(400):
         count += 1
         print('Scraping', count)
 
         try:
-            scrapper.driver.find_element_by_css_selector("div[class='next-pg paginator-arrow-right']").click()
+            scrapper.wait(10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "div[class='next-pg paginator-arrow-right']" ))).click()
+            # scrapper.driver.find_element_by_css_selector("div[class='next-pg paginator-arrow-right']").click()
             # scrapper.sleep(1)
             scrapper.wait(5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
             scrapper.wait(360).until_not(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
@@ -72,6 +74,19 @@ for i in range(1000):
             print("JSONDecodeError")
             continue
 
-    scrapper.driver.find_element_by_css_selector("input[placeholder='From'][class='search-control-range-affordance-input js-from-input']").click()
-    scrapper.driver.find_element_by_css_selector("input[placeholder='From'][class='search-control-range-affordance-input js-from-input']").send_keys(str(bounds[0]))
-    scrapper.driver.find_element_by_css_selector("input[placeholder='To']").send_keys(str(bounds[1]))
+    scrapper.driver.find_element_by_css_selector("input[placeholder='From'][data-qa-id='salesRangesFacet-from']").send_keys(str(bounds[0]))
+    scrapper.driver.find_element_by_css_selector("input[placeholder='To'][data-qa-id='salesRangesFacet-to']").send_keys(str(bounds[1]))
+    scrapper.driver.find_element_by_css_selector("button[data-qa-id='salesRangesFacet-btn']").click()
+    scrapper.wait(5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
+    scrapper.wait(360).until_not(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
+    scrapper.driver.find_elements_by_css_selector("a[class='js-remove-value search-control-selected-value-remove']")[1].click()
+    scrapper.wait(5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
+    scrapper.wait(360).until_not(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
+
+    scrapper.driver.find_element_by_css_selector("input[name='page-num']").send_keys('1')
+    scrapper.driver.find_element_by_css_selector("input[name='page-num']").send_keys(Keys.ENTER)
+    scrapper.wait(5).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
+    scrapper.wait(360).until_not(EC.presence_of_element_located((By.CSS_SELECTOR, "div[class='loading-overlay']")))
+
+
+
