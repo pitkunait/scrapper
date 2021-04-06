@@ -1,1 +1,2024 @@
-[{"addresses": [{"address1": "Else-Kr\u00f6ner-Str. 1", "addressType": "primary", "city": "Bad Homburg", "country": {"name": "Germany"}, "latitude": 50.215975, "longitude": 8.62283, "postalCode": "61352", "state": {"name": "Hessen"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "Fresenius Management SE", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 290136, "employeesHereRCode": "", "employeesTotal": 290136, "employeesTotalRCode": "", "entityType": {"id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de", "name": "Subsidiary"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "d6e8e210-b5a9-3b7a-b03b-1c5417afe883", "industry": {"code": "77", "id": "94abcada-2cdf-3e3c-b44d-cfc7d406c353", "shortDescription": "Holding Companies", "sicCodeId": 77, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 139086613, "marketabilityStatus": "", "numEmployees": 290136, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+49-61726080", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "http://www.fresenius.de", "primitiveType": "company", "sales": 35409000000, "salesEur": 35409000000, "salesGbp": 31061047000, "salesRCode": "Actual", "salesUsd": 39640617000, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "1 Cvs Dr", "addressType": "primary", "city": "Woonsocket", "country": {"name": "United States"}, "latitude": 41.993183, "longitude": -71.477914, "postalCode": "02895-6146", "state": {"name": "Rhode Island"}}], "assets": 232898000000, "assetsEur": 189647080000, "assetsGbp": 171217060000, "assetsUsd": 232898000000, "companyName": "CVS Health Corporation", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 280, "employeesHereRCode": "Actual", "employeesTotal": 290000, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "649a5855-d25f-3641-9c42-e6816bc3f20e", "industry": {"code": "143", "id": "3f510c08-1ba8-3be8-a439-56cff28e893a", "shortDescription": "Pharmacies and Personal Care Stores", "sicCodeId": 143, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 18844, "marketabilityStatus": "", "numEmployees": 290000, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-808-468-3970", "pinned": false, "primaryCompetitorIds": ["14927", "133533", "121611814"], "primaryUrl": "http://www.cvshealth.com", "primitiveType": "company", "sales": 268706000000, "salesEur": 235476050000, "salesGbp": 209298630000, "salesRCode": "Actual", "salesUsd": 268706000000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NYSE", "stockExchange": "NYSE"}, "tickerSymbol": "CVS"}], "smFacebookPage": "", "smLinkedInCompanyId": "4680", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "P.O. Box 9133", "addressType": "secondary", "city": "Framingham", "country": {"name": "United States"}, "postalCode": "01701-9133", "state": {"name": "Massachusetts"}}, {"address1": "770 Cochituate Rd", "addressType": "primary", "city": "Framingham", "country": {"name": "United States"}, "latitude": 42.309095, "longitude": -71.380283, "postalCode": "01701-4698", "state": {"name": "Massachusetts"}}], "assets": 25415240000, "assetsEur": 23041297000, "assetsGbp": 19391029000, "assetsUsd": 25415240000, "companyName": "The TJX Companies Inc", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 1800, "employeesHereRCode": "Actual", "employeesTotal": 286000, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "d282eb74-4019-3712-b328-2519fae82b01", "industry": {"code": "29", "id": "a4ffa6e8-aa0b-3757-9e96-20d155c1d337", "shortDescription": "Clothing and Apparel Stores", "sicCodeId": 29, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 31325, "marketabilityStatus": "", "numEmployees": 286000, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-508-390-1000", "pinned": false, "primaryCompetitorIds": ["24801", "30257", "132421"], "primaryUrl": "http://www.tjx.com", "primitiveType": "company", "sales": 41716977000, "salesEur": 37346281000, "salesGbp": 32630445000, "salesRCode": "Actual", "salesUsd": 41716977000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NYSE", "stockExchange": "NYSE"}, "tickerSymbol": "TJX"}], "smFacebookPage": "", "smLinkedInCompanyId": "5121", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "Block A, China Railway Plaza, No.69 Fuxing Road, Haidian District", "addressType": "primary", "city": "Beijing", "country": {"name": "China"}, "latitude": 39.9075, "longitude": 116.39723, "postalCode": "100000", "state": {"name": "Beijing"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "China Railway Group Limited", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 307, "employeesHereRCode": "", "employeesTotal": 285405, "employeesTotalRCode": "", "entityType": {"id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de", "name": "Subsidiary"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "a4ccfa71-cc0e-35d0-bdba-ccc35cd34446", "industry": {"code": "176", "id": "0bbf0bbf-c90a-303f-85ec-4b0fb698bbf6", "shortDescription": "Specialty Construction Trade Contractors", "sicCodeId": 176, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 98420868, "marketabilityStatus": "", "numEmployees": 285405, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "", "pinned": false, "primaryCompetitorIds": ["241623", "42420045", "199678508"], "primaryUrl": "http://www.crec.cn", "primitiveType": "company", "sales": 850884310000, "salesEur": 110020800000, "salesGbp": 96525781000, "salesRCode": "Actual", "salesUsd": 123162450000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "SHG", "stockExchange": "Shanghai Stock Exchange"}, "tickerSymbol": "601390"}], "smFacebookPage": "", "smLinkedInCompanyId": "9144400", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Building 2, Yongfeng Building, No.2, South No.4 Section of Erhuan Rd., Xiaojiahe, Hi-Tech Zone", "addressType": "primary", "city": "Ziyang", "country": {"name": "China"}, "latitude": 29.29102, "longitude": 102.48168, "postalCode": "610041", "state": {"name": "Sichuan"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "Sinopec DHL Chengdu Branch", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 285000, "employeesHereRCode": "Estimated", "employeesTotal": 285000, "employeesTotalRCode": "Estimated", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "b47fec46-39ad-3cf2-bb5f-9bb0ddcf1f54", "industry": {"code": "9", "id": "f348e726-ddd6-352e-aadf-e44beb1417e4", "shortDescription": "Airlines", "sicCodeId": 9, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 260982803, "marketabilityStatus": "", "numEmployees": 285000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+86-2885151100205", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "http://www.dhl.com", "primitiveType": "company", "sales": 71617996, "salesEur": 9391152.399999999, "salesGbp": 8227127.100000001, "salesRCode": "Modelled", "salesUsd": 10594073, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "d. 15 ofis 39, proezd Khotkovski", "addressType": "primary", "city": "Sergiev Posad", "country": {"name": "Russian Federation"}, "postalCode": "141304", "state": {}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "BYURO PUTESHESTVI TUR POSAD +, OOO", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 280254, "employeesHereRCode": "Estimated", "employeesTotal": 280254, "employeesTotalRCode": "Estimated", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "e1432ab0-dabb-3955-a5ef-5851bae32190", "industry": {"code": "187", "id": "480c8c5e-c8d1-335f-b05e-a28ca33b5cc9", "shortDescription": "Travel and Reservation Services", "sicCodeId": 187, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 161932190, "marketabilityStatus": "", "numEmployees": 280254, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 12519000, "salesEur": 172650.22999999998, "salesGbp": 151472.03, "salesRCode": "Actual", "salesUsd": 193328.69, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "44201 Nobel Dr", "addressType": "primary", "city": "Fremont", "country": {"name": "United States"}, "latitude": 37.496477, "longitude": -121.977898, "postalCode": "94538-3178", "state": {"name": "California"}}], "assets": 13263107000, "assetsEur": 11086218000, "assetsGbp": 9965293000, "assetsUsd": 13263107000, "companyName": "Synnex Corporation", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 150, "employeesHereRCode": "Actual", "employeesTotal": 280000, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "1eb85375-2be7-3ed1-8f49-57dc34020a3e", "industry": {"code": "60", "id": "465f4136-da52-3911-ae56-564402fae162", "shortDescription": "Electronics and Appliances Stores", "sicCodeId": 60, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 44700237, "marketabilityStatus": "", "numEmployees": 280000, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-510-656-3333", "pinned": false, "primaryCompetitorIds": ["27701", "728645", "92135907"], "primaryUrl": "http://www.synnex.com", "primitiveType": "company", "sales": 24675563000, "salesEur": 21796461000, "salesGbp": 19267133000, "salesRCode": "Actual", "salesUsd": 24675563000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NYSE", "stockExchange": "NYSE"}, "tickerSymbol": "SNX"}], "smFacebookPage": "", "smLinkedInCompanyId": "7786", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "P.O. Box 34331", "addressType": "secondary", "city": "Seattle", "country": {"name": "United States"}, "postalCode": "98124-1331", "state": {"name": "Washington"}}, {"address1": "999 Lake Dr", "addressType": "primary", "city": "Issaquah", "country": {"name": "United States"}, "latitude": 47.54899, "longitude": -122.049765, "postalCode": "98027-5367", "state": {"name": "Washington"}}], "assets": 60217000000, "assetsEur": 51043465000, "assetsGbp": 45670836000, "assetsUsd": 60217000000, "companyName": "Costco Wholesale Corporation", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 2100, "employeesHereRCode": "Actual", "employeesTotal": 273000, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "e2f19ddc-bea8-3b6e-8ef0-e349080a7c75", "industry": {"code": "54", "id": "72647822-d2cf-3712-93ea-860a34daadef", "shortDescription": "Department Stores", "sicCodeId": 54, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 177272, "marketabilityStatus": "", "numEmployees": 273000, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-425-313-8100", "pinned": false, "primaryCompetitorIds": ["16925", "138776640", "194248887"], "primaryUrl": "http://www.costco.com", "primitiveType": "company", "sales": 166761000000, "salesEur": 149798920000, "salesGbp": 131340549999.99998, "salesRCode": "Actual", "salesUsd": 166761000000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NASDAQ", "stockExchange": "NASDAQ"}, "tickerSymbol": "COST"}], "smFacebookPage": "", "smLinkedInCompanyId": "163225", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "Blok E1, E6 & E10 Kompleks E", "address2": "Pusat Pentadbiran Kerajaan Persekutuan", "addressType": "primary", "city": "Putrajaya", "country": {"name": "Malaysia"}, "latitude": 2.94331, "longitude": 101.71836, "postalCode": "62590", "state": {"name": "Selangor"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "KEMENTERIAN KESIHATAN MALAYSIA", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 4000, "employeesHereRCode": "Estimated", "employeesTotal": 268000, "employeesTotalRCode": "Estimated", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "211758f9-0ee2-3926-9a36-78dec3df26a1", "industry": {"code": "2", "id": "4ef2cf7d-df78-36fb-abe4-de126df0b242", "shortDescription": "Administration of Public Programs", "sicCodeId": 2, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 170719931, "marketabilityStatus": "Has limited marketability due to incomplete or invalid data", "numEmployees": 268000, "onBritishDoNotCallList": false, "ownershipType": {"id": "bae31fef-3148-342c-ab70-b304f8dd3400", "name": "Public Sector"}, "phone": "+60-388833888", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 124910410000, "salesEur": 25747238000, "salesGbp": 22555467000, "salesRCode": "Modelled", "salesUsd": 29037262000, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "No.2, Huiwen Road, Zhabei District", "addressType": "primary", "city": "Shanghai", "country": {"name": "China"}, "latitude": 31.22222, "longitude": 121.45806, "postalCode": "200071", "state": {"name": "Shanghai"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "China Railway twenty-four Bureau Group Co., Ltd.", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 13027, "employeesHereRCode": "", "employeesTotal": 267188, "employeesTotalRCode": "", "entityType": {"id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de", "name": "Subsidiary"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "72dd1dee-9d43-3cde-833d-dd74e813cb35", "industry": {"code": "77", "id": "94abcada-2cdf-3e3c-b44d-cfc7d406c353", "shortDescription": "Holding Companies", "sicCodeId": 77, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 198155479, "marketabilityStatus": "", "numEmployees": 267188, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+86-2123041771", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "http://www.cr20g.com", "primitiveType": "company", "sales": 444142590000, "salesEur": 58239699000, "salesGbp": 51020941000, "salesRCode": "Modelled", "salesUsd": 65699672000.00001, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "700 Anderson Hill Rd", "addressType": "primary", "city": "Purchase", "country": {"name": "United States"}, "latitude": 41.038565, "longitude": -73.697401, "postalCode": "10577-1444", "state": {"name": "New York"}}], "assets": 89525000000, "assetsEur": 80640078000, "assetsGbp": 68846852000, "assetsUsd": 89525000000, "companyName": "Pepsico, Inc.", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 1500, "employeesHereRCode": "Actual", "employeesTotal": 267000, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "523050f1-9eb2-3a0f-a4f8-d44b134e1f84", "industry": {"code": "67", "id": "07a80485-9805-3fe2-bf00-2bc4a19f35a0", "shortDescription": "Food Manufacturing", "sicCodeId": 67, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 22698, "marketabilityStatus": "", "numEmployees": 267000, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-914-253-2000", "pinned": false, "primaryCompetitorIds": ["6939", "303883", "44764767"], "primaryUrl": "http://www.pepsico.com", "primitiveType": "company", "sales": 67161000000, "salesEur": 59971109000, "salesGbp": 52629238000, "salesRCode": "Actual", "salesUsd": 67161000000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NASDAQ", "stockExchange": "NASDAQ"}, "tickerSymbol": "PEP"}], "smFacebookPage": "", "smLinkedInCompanyId": "1431", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "2400 Market St", "addressType": "primary", "city": "Philadelphia", "country": {"name": "United States"}, "latitude": 39.954148, "longitude": -75.178075, "postalCode": "19103-3041", "state": {"name": "Pennsylvania"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "Aramark Services, Inc.", "directMarketingMessage": "Opts Out of Direct Marketing", "employeesHere": 200, "employeesHereRCode": "Actual", "employeesTotal": 259000, "employeesTotalRCode": "Actual", "entityType": {"id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de", "name": "Subsidiary"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "d99feaf6-b0fc-3142-8ce0-c6e3c615df74", "industry": {"code": "164", "id": "9a17f3c1-3ba9-3db3-9e98-e2e785a3cbf5", "shortDescription": "Restaurants and Bars", "sicCodeId": 164, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 361071, "marketabilityStatus": "Opts Out of Direct Marketing", "numEmployees": 259000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+1-215-238-3000", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "http://www.aramark.com", "primitiveType": "company", "sales": 10064746000, "salesEur": 8914668000, "salesGbp": 7812465800, "salesRCode": "Modelled", "salesUsd": 10064746000, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "2815", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "PO Box 15", "addressType": "secondary", "city": "Groblershoop", "country": {"name": "South Africa"}, "postalCode": "8850", "state": {}}, {"address1": "Dept Waterwese Perseel Saalskop", "addressType": "primary", "city": "Groblershoop", "country": {"name": "South Africa"}, "latitude": -28.89664, "longitude": 21.98633, "postalCode": "8850", "state": {"name": "Northern Cape"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "BOEGOEBERG WATERGEBRUIKERS", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 253000, "employeesHereRCode": "Estimated", "employeesTotal": 253000, "employeesTotalRCode": "Estimated", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "dd2ce09b-a5e1-3dc8-b9ac-ac4bcda6d3b8", "industry": {"code": "190", "id": "c5784eec-eea6-3b46-b127-0cc2bf816222", "shortDescription": "Water and Sewage Services", "sicCodeId": 190, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 259243049, "marketabilityStatus": "", "numEmployees": 253000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+27-548410000", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 10000000, "salesEur": 615845.62, "salesGbp": 536570.97, "salesRCode": "Estimated", "salesUsd": 685742.62, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Calle 47 Nro. 530", "address2": "entre 5 y 6", "addressType": "primary", "city": "La Plata", "country": {"name": "Argentina"}, "latitude": -34.91178, "longitude": -57.950628, "postalCode": "B1900AJV", "state": {"name": "Buenos Aires"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "INSTITUTO DE PREVISION SOCIAL DE LA PROVINCIA DE BUENOS AIRES", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 250000, "employeesHereRCode": "Actual", "employeesTotal": 250000, "employeesTotalRCode": "Actual", "entityType": {"id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de", "name": "Subsidiary"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "bdb0d7ce-d756-31a4-aba8-e038f0b1e0b7", "industry": {"code": "2", "id": "4ef2cf7d-df78-36fb-abe4-de126df0b242", "shortDescription": "Administration of Public Programs", "sicCodeId": 2, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 197802738, "marketabilityStatus": "Has limited marketability due to incomplete or invalid data", "numEmployees": 250000, "onBritishDoNotCallList": false, "ownershipType": {"id": "bae31fef-3148-342c-ab70-b304f8dd3400", "name": "Public Sector"}, "phone": "+54-2214296500", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "http://www.ips.gba.gov.ar", "primitiveType": "company", "sales": 1208551900000, "salesEur": 64523688000, "salesGbp": 56604961000, "salesRCode": "Modelled", "salesUsd": 73015570000, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "2770446", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Carrera 49 D 99 Sur 171", "addressType": "primary", "city": "La Estrella", "country": {"name": "Colombia"}, "latitude": 2.38889, "longitude": -74.89667, "state": {"name": "Antioquia"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "MUNOZ RODRIGUEZ JHON HENRY", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 250000, "employeesHereRCode": "Actual", "employeesTotal": 250000, "employeesTotalRCode": "Actual", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "69416a0d-76cf-356a-8b1a-1b69e7e96843", "industry": {"code": "67", "id": "07a80485-9805-3fe2-bf00-2bc4a19f35a0", "shortDescription": "Food Manufacturing", "sicCodeId": 67, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 563991929, "marketabilityStatus": "", "numEmployees": 250000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+57-3162729069", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 3237226300, "salesEur": 971127.39, "salesGbp": 851225.85, "salesRCode": "Modelled", "salesUsd": 1096819.9000000001, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Calle 06 12 67", "addressType": "primary", "city": "Caicedonia", "country": {"name": "Colombia"}, "latitude": 4.3324, "longitude": -75.82665, "state": {"name": "Valle"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "OROZCO OSORIO LUZ ELENA", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 250000, "employeesHereRCode": "Actual", "employeesTotal": 250000, "employeesTotalRCode": "Actual", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "7e0f5243-46d0-3d46-8a07-52a4d689f09e", "industry": {"code": "50", "id": "8cbcd6c5-efd1-33c2-b38f-c948b0e9a19b", "shortDescription": "Crop and Animal Production", "sicCodeId": 50, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 562997185, "marketabilityStatus": "", "numEmployees": 250000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+57-3052537777", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 3774809100, "salesEur": 1132395.5, "salesGbp": 992582.7999999999, "salesRCode": "Modelled", "salesUsd": 1278960.7999999998, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Room 1208, Anhui Mansion, No.3094, Mingzhu South Road, Qianshan", "addressType": "primary", "city": "Zhuhai", "country": {"name": "China"}, "latitude": 22.175, "longitude": 111.98417, "postalCode": "519070", "state": {"name": "Guangdong"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "Zhuhai Zhengbang Construction Materials Co., Ltd.", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 250000, "employeesHereRCode": "Estimated", "employeesTotal": 250000, "employeesTotalRCode": "Estimated", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "75299bd1-4890-3e10-a8ad-440f9a8b9414", "industry": {"code": "128", "id": "8f5e0d86-cd41-338a-a955-68e514eb3cad", "shortDescription": "Non-Metallic Mineral Product Manufacturing", "sicCodeId": 128, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 150975395, "marketabilityStatus": "", "numEmployees": 250000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "http://www.zhengb.com", "primitiveType": "company", "sales": 67164665, "salesEur": 8807193.8, "salesGbp": 7715549.9, "salesRCode": "Modelled", "salesUsd": 9935315.1, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Calle 3 1 03 Corregimiento Naranjal", "addressType": "primary", "city": "Quinchia", "country": {"name": "Colombia"}, "latitude": 5.31977, "longitude": -75.75778, "state": {"name": "Risaralda"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "RAMIREZ VINASCO LEYDI TATIANA", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 250000, "employeesHereRCode": "Actual", "employeesTotal": 250000, "employeesTotalRCode": "Actual", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "449da555-cd91-3dd1-ae55-1709b2a7b6ed", "industry": {"code": "164", "id": "9a17f3c1-3ba9-3db3-9e98-e2e785a3cbf5", "shortDescription": "Restaurants and Bars", "sicCodeId": 164, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 563059111, "marketabilityStatus": "", "numEmployees": 250000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 3080152600, "salesEur": 924007.24, "salesGbp": 809923.47, "salesRCode": "Modelled", "salesUsd": 1043600.8999999999, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Corregiduria De Tabiles", "addressType": "primary", "city": "Linares", "country": {"name": "Colombia"}, "latitude": 1.35078, "longitude": -77.52339, "state": {"name": "Narino"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "OTERO ACOSTA NANSI", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 250000, "employeesHereRCode": "Actual", "employeesTotal": 250000, "employeesTotalRCode": "Actual", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "ce26e2c9-51f6-3edd-be96-082b5c4d890e", "industry": {"code": "143", "id": "3f510c08-1ba8-3be8-a439-56cff28e893a", "shortDescription": "Pharmacies and Personal Care Stores", "sicCodeId": 143, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 563066690, "marketabilityStatus": "", "numEmployees": 250000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+57-3115889686", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 3080152600, "salesEur": 924007.24, "salesGbp": 809923.47, "salesRCode": "Modelled", "salesUsd": 1043600.8999999999, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "Carrera 6 6 43", "addressType": "primary", "city": "Valle Del Guamuez", "country": {"name": "Colombia"}, "latitude": 0.4525, "longitude": -76.91917, "state": {"name": "Putumayo"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "GUTIERREZ BERMUDEZ FERNANDO", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 250000, "employeesHereRCode": "Actual", "employeesTotal": 250000, "employeesTotalRCode": "Actual", "entityType": {"id": "9d808686-0d01-3391-ba6a-a1d415ce0769", "name": "Independent"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "ecb2f677-511e-332c-b0a9-620faf676d9e", "industry": {"code": "73", "id": "dbf6190e-c811-3355-a0a8-73356e43db04", "shortDescription": "Grocery Stores", "sicCodeId": 73, "source": "OS2010"}, "isHQ": "", "isStopDistribution": "", "keyId": 564362382, "marketabilityStatus": "", "numEmployees": 250000, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+57-3125917256", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "", "primitiveType": "company", "sales": 2583941700, "salesEur": 775150.18, "salesGbp": 679445.2100000001, "salesRCode": "Modelled", "salesUsd": 875477.43, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 112}}, {"addresses": [{"address1": "2400 Market St", "addressType": "primary", "city": "Philadelphia", "country": {"name": "United States"}, "latitude": 39.954266, "longitude": -75.179007, "postalCode": "19103-3041", "state": {"name": "Pennsylvania"}}], "assets": 15712684000, "assetsEur": 13379329000, "assetsGbp": 12186043000, "assetsUsd": 15712684000, "companyName": "Aramark", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 500, "employeesHereRCode": "Actual", "employeesTotal": 247900, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "cce64d49-6aac-35df-803f-3a8d7454b83a", "industry": {"code": "164", "id": "9a17f3c1-3ba9-3db3-9e98-e2e785a3cbf5", "shortDescription": "Restaurants and Bars", "sicCodeId": 164, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 121702383, "marketabilityStatus": "", "numEmployees": 247900, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-215-238-3000", "pinned": false, "primaryCompetitorIds": ["6548", "88773", "89551"], "primaryUrl": "http://www.aramark.com", "primitiveType": "company", "sales": 12829559000, "salesEur": 11452797000, "salesGbp": 10058888000, "salesRCode": "Actual", "salesUsd": 12829559000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NYSE", "stockExchange": "NYSE"}, "tickerSymbol": "ARMK"}], "smFacebookPage": "", "smLinkedInCompanyId": "2815", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "250 E Parkcenter Blvd", "addressType": "primary", "city": "Boise", "country": {"name": "United States"}, "latitude": 43.598726, "longitude": -116.181315, "postalCode": "83706-3999", "state": {"name": "Idaho"}}], "assets": "", "assetsEur": "", "assetsGbp": "", "assetsUsd": "", "companyName": "New Albertsons L.P.", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 5, "employeesHereRCode": "Actual", "employeesTotal": 246882, "employeesTotalRCode": "Actual", "entityType": {"id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de", "name": "Subsidiary"}, "graveyardedAt": null, "hasCompanyLogo": false, "id": "84bae5a5-3364-3fbd-b70c-b889e464d688", "industry": {"code": "73", "id": "dbf6190e-c811-3355-a0a8-73356e43db04", "shortDescription": "Grocery Stores", "sicCodeId": 73, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 181173733, "marketabilityStatus": "", "numEmployees": 246882, "onBritishDoNotCallList": false, "ownershipType": {"id": "2f5c1b1d-50e0-3139-a223-cca768a59caf", "name": "Private"}, "phone": "+1-208-395-6200", "pinned": false, "primaryCompetitorIds": "", "primaryUrl": "http://www.albertsonscompanies.com", "primitiveType": "company", "sales": 12579397000, "salesEur": 11141976000, "salesGbp": 9764390600, "salesRCode": "Modelled", "salesUsd": 12579397000, "score": 1, "securities": [], "smFacebookPage": "", "smLinkedInCompanyId": "", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "208 S Akard St", "addressType": "primary", "city": "Dallas", "country": {"name": "United States"}, "latitude": 32.779708, "longitude": -96.799223, "postalCode": "75202-4206", "state": {"name": "Texas"}}], "assets": 538553000000, "assetsEur": 480156340000, "assetsGbp": 409838970000, "assetsUsd": 538553000000, "companyName": "AT&T Inc.", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 590, "employeesHereRCode": "Actual", "employeesTotal": 246000, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "07999339-f5fa-3d8b-b698-fabf3d5714c8", "industry": {"code": "193", "id": "c24f0b81-2243-3f91-8934-e7ea15bce707", "shortDescription": "Wireless Telecommunications Carriers", "sicCodeId": 193, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 26562, "marketabilityStatus": "", "numEmployees": 246000, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-210-821-4105", "pinned": false, "primaryCompetitorIds": ["3729", "29531", "196090855"], "primaryUrl": "http://www.att.com", "primitiveType": "company", "sales": 181193000000, "salesEur": 161827280000, "salesGbp": 141958550000, "salesRCode": "Actual", "salesUsd": 181193000000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NYSE", "stockExchange": "NYSE"}, "tickerSymbol": "T"}], "smFacebookPage": "ATT", "smLinkedInCompanyId": "1052", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "3610 Hacks Cross Rd", "addressType": "primary", "city": "Memphis", "country": {"name": "United States"}, "latitude": 35.10586, "longitude": -89.859116, "postalCode": "38125-8800", "state": {"name": "Tennessee"}}], "assets": 81156000000, "assetsEur": 73250117000, "assetsGbp": 65773008000, "assetsUsd": 81156000000, "companyName": "Fedex Corporation", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 1600, "employeesHereRCode": "Actual", "employeesTotal": 245000, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "aeeeaf9c-2330-3099-9dce-3dc2474ca5a4", "industry": {"code": "148", "id": "14211bd7-c815-346c-a755-86036dce3575", "shortDescription": "Postal, Shipping and Messengers", "sicCodeId": 148, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 10941, "marketabilityStatus": "", "numEmployees": 245000, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-901-818-7500", "pinned": false, "primaryCompetitorIds": ["29397", "741945", "107926727"], "primaryUrl": "http://www.fedex.com", "primitiveType": "company", "sales": 69217000000, "salesEur": 62582207000, "salesGbp": 54851719000, "salesRCode": "Actual", "salesUsd": 69217000000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NYSE", "stockExchange": "NYSE"}, "tickerSymbol": "FDX"}], "smFacebookPage": "fedex", "smLinkedInCompanyId": "1670", "smLinkedInPage": "", "smTwitterHandle": "fedex", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}, {"addresses": [{"address1": "870 Winter St", "addressType": "primary", "city": "Waltham", "country": {"name": "United States"}, "latitude": 42.402253, "longitude": -71.274272, "postalCode": "02451-1449", "state": {"name": "Massachusetts"}}], "assets": 162399000000, "assetsEur": 132240280000, "assetsGbp": 119389090000, "assetsUsd": 162399000000, "companyName": "Raytheon Technologies Corporation", "directMarketingMessage": "Has Not Opted Out of Direct Marketing", "employeesHere": 430, "employeesHereRCode": "Actual", "employeesTotal": 243200, "employeesTotalRCode": "Actual", "entityType": {"id": "b36a3fb2-660c-3d07-a365-2c5740f91db5", "name": "Parent"}, "graveyardedAt": null, "hasCompanyLogo": true, "id": "0cdc1379-98d0-3fa3-8274-cc791c4ab981", "industry": {"code": "7", "id": "b644065b-9aa5-3425-82c6-9e4a15b7abe7", "shortDescription": "Aircraft Engine and Parts Manufacturing", "sicCodeId": 7, "source": "OS2010"}, "isHQ": true, "isStopDistribution": "", "keyId": 29526, "marketabilityStatus": "", "numEmployees": 243200, "onBritishDoNotCallList": false, "ownershipType": {"id": "ad198725-c924-3c6c-86ec-788baeb5ad1d", "name": "Public"}, "phone": "+1-781-522-3000", "pinned": false, "primaryCompetitorIds": ["43863379", "102898876", "121610926"], "primaryUrl": "http://www.rtx.com", "primitiveType": "company", "sales": 56587000000, "salesEur": 49589078000, "salesGbp": 44076355000, "salesRCode": "Actual", "salesUsd": 56587000000, "score": 1, "securities": [{"exchange": {"quoteExchangeCode": "NYSE", "stockExchange": "NYSE"}, "tickerSymbol": "RTX"}], "smFacebookPage": "", "smLinkedInCompanyId": "2426", "smLinkedInPage": "", "smTwitterHandle": "", "suppressed": false, "type": "company", "vendor": {"copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.", "displayName": "D&B", "vendorFeedId": 110}}]
+[
+  {
+    "addresses": [
+      {
+        "address1": "Else-Kr\u00f6ner-Str. 1",
+        "addressType": "primary",
+        "city": "Bad Homburg",
+        "country": {
+          "name": "Germany"
+        },
+        "latitude": 50.215975,
+        "longitude": 8.62283,
+        "postalCode": "61352",
+        "state": {
+          "name": "Hessen"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "Fresenius Management SE",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 290136,
+    "employeesHereRCode": "",
+    "employeesTotal": 290136,
+    "employeesTotalRCode": "",
+    "entityType": {
+      "id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de",
+      "name": "Subsidiary"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "d6e8e210-b5a9-3b7a-b03b-1c5417afe883",
+    "industry": {
+      "code": "77",
+      "id": "94abcada-2cdf-3e3c-b44d-cfc7d406c353",
+      "shortDescription": "Holding Companies",
+      "sicCodeId": 77,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 139086613,
+    "marketabilityStatus": "",
+    "numEmployees": 290136,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+49-61726080",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "http://www.fresenius.de",
+    "primitiveType": "company",
+    "sales": 35409000000,
+    "salesEur": 35409000000,
+    "salesGbp": 31061047000,
+    "salesRCode": "Actual",
+    "salesUsd": 39640617000,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "1 Cvs Dr",
+        "addressType": "primary",
+        "city": "Woonsocket",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 41.993183,
+        "longitude": -71.477914,
+        "postalCode": "02895-6146",
+        "state": {
+          "name": "Rhode Island"
+        }
+      }
+    ],
+    "assets": 232898000000,
+    "assetsEur": 189647080000,
+    "assetsGbp": 171217060000,
+    "assetsUsd": 232898000000,
+    "companyName": "CVS Health Corporation",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 280,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 290000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "649a5855-d25f-3641-9c42-e6816bc3f20e",
+    "industry": {
+      "code": "143",
+      "id": "3f510c08-1ba8-3be8-a439-56cff28e893a",
+      "shortDescription": "Pharmacies and Personal Care Stores",
+      "sicCodeId": 143,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 18844,
+    "marketabilityStatus": "",
+    "numEmployees": 290000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-808-468-3970",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "14927",
+      "133533",
+      "121611814"
+    ],
+    "primaryUrl": "http://www.cvshealth.com",
+    "primitiveType": "company",
+    "sales": 268706000000,
+    "salesEur": 235476050000,
+    "salesGbp": 209298630000,
+    "salesRCode": "Actual",
+    "salesUsd": 268706000000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NYSE",
+          "stockExchange": "NYSE"
+        },
+        "tickerSymbol": "CVS"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "4680",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "P.O. Box 9133",
+        "addressType": "secondary",
+        "city": "Framingham",
+        "country": {
+          "name": "United States"
+        },
+        "postalCode": "01701-9133",
+        "state": {
+          "name": "Massachusetts"
+        }
+      },
+      {
+        "address1": "770 Cochituate Rd",
+        "addressType": "primary",
+        "city": "Framingham",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 42.309095,
+        "longitude": -71.380283,
+        "postalCode": "01701-4698",
+        "state": {
+          "name": "Massachusetts"
+        }
+      }
+    ],
+    "assets": 25415240000,
+    "assetsEur": 23041297000,
+    "assetsGbp": 19391029000,
+    "assetsUsd": 25415240000,
+    "companyName": "The TJX Companies Inc",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 1800,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 286000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "d282eb74-4019-3712-b328-2519fae82b01",
+    "industry": {
+      "code": "29",
+      "id": "a4ffa6e8-aa0b-3757-9e96-20d155c1d337",
+      "shortDescription": "Clothing and Apparel Stores",
+      "sicCodeId": 29,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 31325,
+    "marketabilityStatus": "",
+    "numEmployees": 286000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-508-390-1000",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "24801",
+      "30257",
+      "132421"
+    ],
+    "primaryUrl": "http://www.tjx.com",
+    "primitiveType": "company",
+    "sales": 41716977000,
+    "salesEur": 37346281000,
+    "salesGbp": 32630445000,
+    "salesRCode": "Actual",
+    "salesUsd": 41716977000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NYSE",
+          "stockExchange": "NYSE"
+        },
+        "tickerSymbol": "TJX"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "5121",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Block A, China Railway Plaza, No.69 Fuxing Road, Haidian District",
+        "addressType": "primary",
+        "city": "Beijing",
+        "country": {
+          "name": "China"
+        },
+        "latitude": 39.9075,
+        "longitude": 116.39723,
+        "postalCode": "100000",
+        "state": {
+          "name": "Beijing"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "China Railway Group Limited",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 307,
+    "employeesHereRCode": "",
+    "employeesTotal": 285405,
+    "employeesTotalRCode": "",
+    "entityType": {
+      "id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de",
+      "name": "Subsidiary"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "a4ccfa71-cc0e-35d0-bdba-ccc35cd34446",
+    "industry": {
+      "code": "176",
+      "id": "0bbf0bbf-c90a-303f-85ec-4b0fb698bbf6",
+      "shortDescription": "Specialty Construction Trade Contractors",
+      "sicCodeId": 176,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 98420868,
+    "marketabilityStatus": "",
+    "numEmployees": 285405,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "241623",
+      "42420045",
+      "199678508"
+    ],
+    "primaryUrl": "http://www.crec.cn",
+    "primitiveType": "company",
+    "sales": 850884310000,
+    "salesEur": 110020800000,
+    "salesGbp": 96525781000,
+    "salesRCode": "Actual",
+    "salesUsd": 123162450000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "SHG",
+          "stockExchange": "Shanghai Stock Exchange"
+        },
+        "tickerSymbol": "601390"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "9144400",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Building 2, Yongfeng Building, No.2, South No.4 Section of Erhuan Rd., Xiaojiahe, Hi-Tech Zone",
+        "addressType": "primary",
+        "city": "Ziyang",
+        "country": {
+          "name": "China"
+        },
+        "latitude": 29.29102,
+        "longitude": 102.48168,
+        "postalCode": "610041",
+        "state": {
+          "name": "Sichuan"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "Sinopec DHL Chengdu Branch",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 285000,
+    "employeesHereRCode": "Estimated",
+    "employeesTotal": 285000,
+    "employeesTotalRCode": "Estimated",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "b47fec46-39ad-3cf2-bb5f-9bb0ddcf1f54",
+    "industry": {
+      "code": "9",
+      "id": "f348e726-ddd6-352e-aadf-e44beb1417e4",
+      "shortDescription": "Airlines",
+      "sicCodeId": 9,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 260982803,
+    "marketabilityStatus": "",
+    "numEmployees": 285000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+86-2885151100205",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "http://www.dhl.com",
+    "primitiveType": "company",
+    "sales": 71617996,
+    "salesEur": 9391152.399999999,
+    "salesGbp": 8227127.100000001,
+    "salesRCode": "Modelled",
+    "salesUsd": 10594073,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "d. 15 ofis 39, proezd Khotkovski",
+        "addressType": "primary",
+        "city": "Sergiev Posad",
+        "country": {
+          "name": "Russian Federation"
+        },
+        "postalCode": "141304",
+        "state": {}
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "BYURO PUTESHESTVI TUR POSAD +, OOO",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 280254,
+    "employeesHereRCode": "Estimated",
+    "employeesTotal": 280254,
+    "employeesTotalRCode": "Estimated",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "e1432ab0-dabb-3955-a5ef-5851bae32190",
+    "industry": {
+      "code": "187",
+      "id": "480c8c5e-c8d1-335f-b05e-a28ca33b5cc9",
+      "shortDescription": "Travel and Reservation Services",
+      "sicCodeId": 187,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 161932190,
+    "marketabilityStatus": "",
+    "numEmployees": 280254,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 12519000,
+    "salesEur": 172650.22999999998,
+    "salesGbp": 151472.03,
+    "salesRCode": "Actual",
+    "salesUsd": 193328.69,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "44201 Nobel Dr",
+        "addressType": "primary",
+        "city": "Fremont",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 37.496477,
+        "longitude": -121.977898,
+        "postalCode": "94538-3178",
+        "state": {
+          "name": "California"
+        }
+      }
+    ],
+    "assets": 13263107000,
+    "assetsEur": 11086218000,
+    "assetsGbp": 9965293000,
+    "assetsUsd": 13263107000,
+    "companyName": "Synnex Corporation",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 150,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 280000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "1eb85375-2be7-3ed1-8f49-57dc34020a3e",
+    "industry": {
+      "code": "60",
+      "id": "465f4136-da52-3911-ae56-564402fae162",
+      "shortDescription": "Electronics and Appliances Stores",
+      "sicCodeId": 60,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 44700237,
+    "marketabilityStatus": "",
+    "numEmployees": 280000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-510-656-3333",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "27701",
+      "728645",
+      "92135907"
+    ],
+    "primaryUrl": "http://www.synnex.com",
+    "primitiveType": "company",
+    "sales": 24675563000,
+    "salesEur": 21796461000,
+    "salesGbp": 19267133000,
+    "salesRCode": "Actual",
+    "salesUsd": 24675563000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NYSE",
+          "stockExchange": "NYSE"
+        },
+        "tickerSymbol": "SNX"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "7786",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "P.O. Box 34331",
+        "addressType": "secondary",
+        "city": "Seattle",
+        "country": {
+          "name": "United States"
+        },
+        "postalCode": "98124-1331",
+        "state": {
+          "name": "Washington"
+        }
+      },
+      {
+        "address1": "999 Lake Dr",
+        "addressType": "primary",
+        "city": "Issaquah",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 47.54899,
+        "longitude": -122.049765,
+        "postalCode": "98027-5367",
+        "state": {
+          "name": "Washington"
+        }
+      }
+    ],
+    "assets": 60217000000,
+    "assetsEur": 51043465000,
+    "assetsGbp": 45670836000,
+    "assetsUsd": 60217000000,
+    "companyName": "Costco Wholesale Corporation",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 2100,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 273000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "e2f19ddc-bea8-3b6e-8ef0-e349080a7c75",
+    "industry": {
+      "code": "54",
+      "id": "72647822-d2cf-3712-93ea-860a34daadef",
+      "shortDescription": "Department Stores",
+      "sicCodeId": 54,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 177272,
+    "marketabilityStatus": "",
+    "numEmployees": 273000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-425-313-8100",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "16925",
+      "138776640",
+      "194248887"
+    ],
+    "primaryUrl": "http://www.costco.com",
+    "primitiveType": "company",
+    "sales": 166761000000,
+    "salesEur": 149798920000,
+    "salesGbp": 131340549999.99998,
+    "salesRCode": "Actual",
+    "salesUsd": 166761000000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NASDAQ",
+          "stockExchange": "NASDAQ"
+        },
+        "tickerSymbol": "COST"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "163225",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Blok E1, E6 & E10 Kompleks E",
+        "address2": "Pusat Pentadbiran Kerajaan Persekutuan",
+        "addressType": "primary",
+        "city": "Putrajaya",
+        "country": {
+          "name": "Malaysia"
+        },
+        "latitude": 2.94331,
+        "longitude": 101.71836,
+        "postalCode": "62590",
+        "state": {
+          "name": "Selangor"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "KEMENTERIAN KESIHATAN MALAYSIA",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 4000,
+    "employeesHereRCode": "Estimated",
+    "employeesTotal": 268000,
+    "employeesTotalRCode": "Estimated",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "211758f9-0ee2-3926-9a36-78dec3df26a1",
+    "industry": {
+      "code": "2",
+      "id": "4ef2cf7d-df78-36fb-abe4-de126df0b242",
+      "shortDescription": "Administration of Public Programs",
+      "sicCodeId": 2,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 170719931,
+    "marketabilityStatus": "Has limited marketability due to incomplete or invalid data",
+    "numEmployees": 268000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "bae31fef-3148-342c-ab70-b304f8dd3400",
+      "name": "Public Sector"
+    },
+    "phone": "+60-388833888",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 124910410000,
+    "salesEur": 25747238000,
+    "salesGbp": 22555467000,
+    "salesRCode": "Modelled",
+    "salesUsd": 29037262000,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "No.2, Huiwen Road, Zhabei District",
+        "addressType": "primary",
+        "city": "Shanghai",
+        "country": {
+          "name": "China"
+        },
+        "latitude": 31.22222,
+        "longitude": 121.45806,
+        "postalCode": "200071",
+        "state": {
+          "name": "Shanghai"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "China Railway twenty-four Bureau Group Co., Ltd.",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 13027,
+    "employeesHereRCode": "",
+    "employeesTotal": 267188,
+    "employeesTotalRCode": "",
+    "entityType": {
+      "id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de",
+      "name": "Subsidiary"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "72dd1dee-9d43-3cde-833d-dd74e813cb35",
+    "industry": {
+      "code": "77",
+      "id": "94abcada-2cdf-3e3c-b44d-cfc7d406c353",
+      "shortDescription": "Holding Companies",
+      "sicCodeId": 77,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 198155479,
+    "marketabilityStatus": "",
+    "numEmployees": 267188,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+86-2123041771",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "http://www.cr20g.com",
+    "primitiveType": "company",
+    "sales": 444142590000,
+    "salesEur": 58239699000,
+    "salesGbp": 51020941000,
+    "salesRCode": "Modelled",
+    "salesUsd": 65699672000.00001,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "700 Anderson Hill Rd",
+        "addressType": "primary",
+        "city": "Purchase",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 41.038565,
+        "longitude": -73.697401,
+        "postalCode": "10577-1444",
+        "state": {
+          "name": "New York"
+        }
+      }
+    ],
+    "assets": 89525000000,
+    "assetsEur": 80640078000,
+    "assetsGbp": 68846852000,
+    "assetsUsd": 89525000000,
+    "companyName": "Pepsico, Inc.",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 1500,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 267000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "523050f1-9eb2-3a0f-a4f8-d44b134e1f84",
+    "industry": {
+      "code": "67",
+      "id": "07a80485-9805-3fe2-bf00-2bc4a19f35a0",
+      "shortDescription": "Food Manufacturing",
+      "sicCodeId": 67,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 22698,
+    "marketabilityStatus": "",
+    "numEmployees": 267000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-914-253-2000",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "6939",
+      "303883",
+      "44764767"
+    ],
+    "primaryUrl": "http://www.pepsico.com",
+    "primitiveType": "company",
+    "sales": 67161000000,
+    "salesEur": 59971109000,
+    "salesGbp": 52629238000,
+    "salesRCode": "Actual",
+    "salesUsd": 67161000000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NASDAQ",
+          "stockExchange": "NASDAQ"
+        },
+        "tickerSymbol": "PEP"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "1431",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "2400 Market St",
+        "addressType": "primary",
+        "city": "Philadelphia",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 39.954148,
+        "longitude": -75.178075,
+        "postalCode": "19103-3041",
+        "state": {
+          "name": "Pennsylvania"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "Aramark Services, Inc.",
+    "directMarketingMessage": "Opts Out of Direct Marketing",
+    "employeesHere": 200,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 259000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de",
+      "name": "Subsidiary"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "d99feaf6-b0fc-3142-8ce0-c6e3c615df74",
+    "industry": {
+      "code": "164",
+      "id": "9a17f3c1-3ba9-3db3-9e98-e2e785a3cbf5",
+      "shortDescription": "Restaurants and Bars",
+      "sicCodeId": 164,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 361071,
+    "marketabilityStatus": "Opts Out of Direct Marketing",
+    "numEmployees": 259000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+1-215-238-3000",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "http://www.aramark.com",
+    "primitiveType": "company",
+    "sales": 10064746000,
+    "salesEur": 8914668000,
+    "salesGbp": 7812465800,
+    "salesRCode": "Modelled",
+    "salesUsd": 10064746000,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "2815",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "PO Box 15",
+        "addressType": "secondary",
+        "city": "Groblershoop",
+        "country": {
+          "name": "South Africa"
+        },
+        "postalCode": "8850",
+        "state": {}
+      },
+      {
+        "address1": "Dept Waterwese Perseel Saalskop",
+        "addressType": "primary",
+        "city": "Groblershoop",
+        "country": {
+          "name": "South Africa"
+        },
+        "latitude": -28.89664,
+        "longitude": 21.98633,
+        "postalCode": "8850",
+        "state": {
+          "name": "Northern Cape"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "BOEGOEBERG WATERGEBRUIKERS",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 253000,
+    "employeesHereRCode": "Estimated",
+    "employeesTotal": 253000,
+    "employeesTotalRCode": "Estimated",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "dd2ce09b-a5e1-3dc8-b9ac-ac4bcda6d3b8",
+    "industry": {
+      "code": "190",
+      "id": "c5784eec-eea6-3b46-b127-0cc2bf816222",
+      "shortDescription": "Water and Sewage Services",
+      "sicCodeId": 190,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 259243049,
+    "marketabilityStatus": "",
+    "numEmployees": 253000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+27-548410000",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 10000000,
+    "salesEur": 615845.62,
+    "salesGbp": 536570.97,
+    "salesRCode": "Estimated",
+    "salesUsd": 685742.62,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Calle 47 Nro. 530",
+        "address2": "entre 5 y 6",
+        "addressType": "primary",
+        "city": "La Plata",
+        "country": {
+          "name": "Argentina"
+        },
+        "latitude": -34.91178,
+        "longitude": -57.950628,
+        "postalCode": "B1900AJV",
+        "state": {
+          "name": "Buenos Aires"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "INSTITUTO DE PREVISION SOCIAL DE LA PROVINCIA DE BUENOS AIRES",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 250000,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 250000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de",
+      "name": "Subsidiary"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "bdb0d7ce-d756-31a4-aba8-e038f0b1e0b7",
+    "industry": {
+      "code": "2",
+      "id": "4ef2cf7d-df78-36fb-abe4-de126df0b242",
+      "shortDescription": "Administration of Public Programs",
+      "sicCodeId": 2,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 197802738,
+    "marketabilityStatus": "Has limited marketability due to incomplete or invalid data",
+    "numEmployees": 250000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "bae31fef-3148-342c-ab70-b304f8dd3400",
+      "name": "Public Sector"
+    },
+    "phone": "+54-2214296500",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "http://www.ips.gba.gov.ar",
+    "primitiveType": "company",
+    "sales": 1208551900000,
+    "salesEur": 64523688000,
+    "salesGbp": 56604961000,
+    "salesRCode": "Modelled",
+    "salesUsd": 73015570000,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "2770446",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Carrera 49 D 99 Sur 171",
+        "addressType": "primary",
+        "city": "La Estrella",
+        "country": {
+          "name": "Colombia"
+        },
+        "latitude": 2.38889,
+        "longitude": -74.89667,
+        "state": {
+          "name": "Antioquia"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "MUNOZ RODRIGUEZ JHON HENRY",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 250000,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 250000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "69416a0d-76cf-356a-8b1a-1b69e7e96843",
+    "industry": {
+      "code": "67",
+      "id": "07a80485-9805-3fe2-bf00-2bc4a19f35a0",
+      "shortDescription": "Food Manufacturing",
+      "sicCodeId": 67,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 563991929,
+    "marketabilityStatus": "",
+    "numEmployees": 250000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+57-3162729069",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 3237226300,
+    "salesEur": 971127.39,
+    "salesGbp": 851225.85,
+    "salesRCode": "Modelled",
+    "salesUsd": 1096819.9000000001,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Calle 06 12 67",
+        "addressType": "primary",
+        "city": "Caicedonia",
+        "country": {
+          "name": "Colombia"
+        },
+        "latitude": 4.3324,
+        "longitude": -75.82665,
+        "state": {
+          "name": "Valle"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "OROZCO OSORIO LUZ ELENA",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 250000,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 250000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "7e0f5243-46d0-3d46-8a07-52a4d689f09e",
+    "industry": {
+      "code": "50",
+      "id": "8cbcd6c5-efd1-33c2-b38f-c948b0e9a19b",
+      "shortDescription": "Crop and Animal Production",
+      "sicCodeId": 50,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 562997185,
+    "marketabilityStatus": "",
+    "numEmployees": 250000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+57-3052537777",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 3774809100,
+    "salesEur": 1132395.5,
+    "salesGbp": 992582.7999999999,
+    "salesRCode": "Modelled",
+    "salesUsd": 1278960.7999999998,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Room 1208, Anhui Mansion, No.3094, Mingzhu South Road, Qianshan",
+        "addressType": "primary",
+        "city": "Zhuhai",
+        "country": {
+          "name": "China"
+        },
+        "latitude": 22.175,
+        "longitude": 111.98417,
+        "postalCode": "519070",
+        "state": {
+          "name": "Guangdong"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "Zhuhai Zhengbang Construction Materials Co., Ltd.",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 250000,
+    "employeesHereRCode": "Estimated",
+    "employeesTotal": 250000,
+    "employeesTotalRCode": "Estimated",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "75299bd1-4890-3e10-a8ad-440f9a8b9414",
+    "industry": {
+      "code": "128",
+      "id": "8f5e0d86-cd41-338a-a955-68e514eb3cad",
+      "shortDescription": "Non-Metallic Mineral Product Manufacturing",
+      "sicCodeId": 128,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 150975395,
+    "marketabilityStatus": "",
+    "numEmployees": 250000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "http://www.zhengb.com",
+    "primitiveType": "company",
+    "sales": 67164665,
+    "salesEur": 8807193.8,
+    "salesGbp": 7715549.9,
+    "salesRCode": "Modelled",
+    "salesUsd": 9935315.1,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Calle 3 1 03 Corregimiento Naranjal",
+        "addressType": "primary",
+        "city": "Quinchia",
+        "country": {
+          "name": "Colombia"
+        },
+        "latitude": 5.31977,
+        "longitude": -75.75778,
+        "state": {
+          "name": "Risaralda"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "RAMIREZ VINASCO LEYDI TATIANA",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 250000,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 250000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "449da555-cd91-3dd1-ae55-1709b2a7b6ed",
+    "industry": {
+      "code": "164",
+      "id": "9a17f3c1-3ba9-3db3-9e98-e2e785a3cbf5",
+      "shortDescription": "Restaurants and Bars",
+      "sicCodeId": 164,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 563059111,
+    "marketabilityStatus": "",
+    "numEmployees": 250000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 3080152600,
+    "salesEur": 924007.24,
+    "salesGbp": 809923.47,
+    "salesRCode": "Modelled",
+    "salesUsd": 1043600.8999999999,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Corregiduria De Tabiles",
+        "addressType": "primary",
+        "city": "Linares",
+        "country": {
+          "name": "Colombia"
+        },
+        "latitude": 1.35078,
+        "longitude": -77.52339,
+        "state": {
+          "name": "Narino"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "OTERO ACOSTA NANSI",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 250000,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 250000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "ce26e2c9-51f6-3edd-be96-082b5c4d890e",
+    "industry": {
+      "code": "143",
+      "id": "3f510c08-1ba8-3be8-a439-56cff28e893a",
+      "shortDescription": "Pharmacies and Personal Care Stores",
+      "sicCodeId": 143,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 563066690,
+    "marketabilityStatus": "",
+    "numEmployees": 250000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+57-3115889686",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 3080152600,
+    "salesEur": 924007.24,
+    "salesGbp": 809923.47,
+    "salesRCode": "Modelled",
+    "salesUsd": 1043600.8999999999,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "Carrera 6 6 43",
+        "addressType": "primary",
+        "city": "Valle Del Guamuez",
+        "country": {
+          "name": "Colombia"
+        },
+        "latitude": 0.4525,
+        "longitude": -76.91917,
+        "state": {
+          "name": "Putumayo"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "GUTIERREZ BERMUDEZ FERNANDO",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 250000,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 250000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+      "name": "Independent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "ecb2f677-511e-332c-b0a9-620faf676d9e",
+    "industry": {
+      "code": "73",
+      "id": "dbf6190e-c811-3355-a0a8-73356e43db04",
+      "shortDescription": "Grocery Stores",
+      "sicCodeId": 73,
+      "source": "OS2010"
+    },
+    "isHQ": "",
+    "isStopDistribution": "",
+    "keyId": 564362382,
+    "marketabilityStatus": "",
+    "numEmployees": 250000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+57-3125917256",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "",
+    "primitiveType": "company",
+    "sales": 2583941700,
+    "salesEur": 775150.18,
+    "salesGbp": 679445.2100000001,
+    "salesRCode": "Modelled",
+    "salesUsd": 875477.43,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2019 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 112
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "2400 Market St",
+        "addressType": "primary",
+        "city": "Philadelphia",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 39.954266,
+        "longitude": -75.179007,
+        "postalCode": "19103-3041",
+        "state": {
+          "name": "Pennsylvania"
+        }
+      }
+    ],
+    "assets": 15712684000,
+    "assetsEur": 13379329000,
+    "assetsGbp": 12186043000,
+    "assetsUsd": 15712684000,
+    "companyName": "Aramark",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 500,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 247900,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "cce64d49-6aac-35df-803f-3a8d7454b83a",
+    "industry": {
+      "code": "164",
+      "id": "9a17f3c1-3ba9-3db3-9e98-e2e785a3cbf5",
+      "shortDescription": "Restaurants and Bars",
+      "sicCodeId": 164,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 121702383,
+    "marketabilityStatus": "",
+    "numEmployees": 247900,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-215-238-3000",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "6548",
+      "88773",
+      "89551"
+    ],
+    "primaryUrl": "http://www.aramark.com",
+    "primitiveType": "company",
+    "sales": 12829559000,
+    "salesEur": 11452797000,
+    "salesGbp": 10058888000,
+    "salesRCode": "Actual",
+    "salesUsd": 12829559000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NYSE",
+          "stockExchange": "NYSE"
+        },
+        "tickerSymbol": "ARMK"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "2815",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "250 E Parkcenter Blvd",
+        "addressType": "primary",
+        "city": "Boise",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 43.598726,
+        "longitude": -116.181315,
+        "postalCode": "83706-3999",
+        "state": {
+          "name": "Idaho"
+        }
+      }
+    ],
+    "assets": "",
+    "assetsEur": "",
+    "assetsGbp": "",
+    "assetsUsd": "",
+    "companyName": "New Albertsons L.P.",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 5,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 246882,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "7d45d9a3-8ecd-3a3f-bcf7-a02523e781de",
+      "name": "Subsidiary"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": false,
+    "id": "84bae5a5-3364-3fbd-b70c-b889e464d688",
+    "industry": {
+      "code": "73",
+      "id": "dbf6190e-c811-3355-a0a8-73356e43db04",
+      "shortDescription": "Grocery Stores",
+      "sicCodeId": 73,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 181173733,
+    "marketabilityStatus": "",
+    "numEmployees": 246882,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+      "name": "Private"
+    },
+    "phone": "+1-208-395-6200",
+    "pinned": false,
+    "primaryCompetitorIds": "",
+    "primaryUrl": "http://www.albertsonscompanies.com",
+    "primitiveType": "company",
+    "sales": 12579397000,
+    "salesEur": 11141976000,
+    "salesGbp": 9764390600,
+    "salesRCode": "Modelled",
+    "salesUsd": 12579397000,
+    "score": 1,
+    "securities": [],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "208 S Akard St",
+        "addressType": "primary",
+        "city": "Dallas",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 32.779708,
+        "longitude": -96.799223,
+        "postalCode": "75202-4206",
+        "state": {
+          "name": "Texas"
+        }
+      }
+    ],
+    "assets": 538553000000,
+    "assetsEur": 480156340000,
+    "assetsGbp": 409838970000,
+    "assetsUsd": 538553000000,
+    "companyName": "AT&T Inc.",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 590,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 246000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "07999339-f5fa-3d8b-b698-fabf3d5714c8",
+    "industry": {
+      "code": "193",
+      "id": "c24f0b81-2243-3f91-8934-e7ea15bce707",
+      "shortDescription": "Wireless Telecommunications Carriers",
+      "sicCodeId": 193,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 26562,
+    "marketabilityStatus": "",
+    "numEmployees": 246000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-210-821-4105",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "3729",
+      "29531",
+      "196090855"
+    ],
+    "primaryUrl": "http://www.att.com",
+    "primitiveType": "company",
+    "sales": 181193000000,
+    "salesEur": 161827280000,
+    "salesGbp": 141958550000,
+    "salesRCode": "Actual",
+    "salesUsd": 181193000000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NYSE",
+          "stockExchange": "NYSE"
+        },
+        "tickerSymbol": "T"
+      }
+    ],
+    "smFacebookPage": "ATT",
+    "smLinkedInCompanyId": "1052",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "3610 Hacks Cross Rd",
+        "addressType": "primary",
+        "city": "Memphis",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 35.10586,
+        "longitude": -89.859116,
+        "postalCode": "38125-8800",
+        "state": {
+          "name": "Tennessee"
+        }
+      }
+    ],
+    "assets": 81156000000,
+    "assetsEur": 73250117000,
+    "assetsGbp": 65773008000,
+    "assetsUsd": 81156000000,
+    "companyName": "Fedex Corporation",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 1600,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 245000,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "aeeeaf9c-2330-3099-9dce-3dc2474ca5a4",
+    "industry": {
+      "code": "148",
+      "id": "14211bd7-c815-346c-a755-86036dce3575",
+      "shortDescription": "Postal, Shipping and Messengers",
+      "sicCodeId": 148,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 10941,
+    "marketabilityStatus": "",
+    "numEmployees": 245000,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-901-818-7500",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "29397",
+      "741945",
+      "107926727"
+    ],
+    "primaryUrl": "http://www.fedex.com",
+    "primitiveType": "company",
+    "sales": 69217000000,
+    "salesEur": 62582207000,
+    "salesGbp": 54851719000,
+    "salesRCode": "Actual",
+    "salesUsd": 69217000000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NYSE",
+          "stockExchange": "NYSE"
+        },
+        "tickerSymbol": "FDX"
+      }
+    ],
+    "smFacebookPage": "fedex",
+    "smLinkedInCompanyId": "1670",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "fedex",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  },
+  {
+    "addresses": [
+      {
+        "address1": "870 Winter St",
+        "addressType": "primary",
+        "city": "Waltham",
+        "country": {
+          "name": "United States"
+        },
+        "latitude": 42.402253,
+        "longitude": -71.274272,
+        "postalCode": "02451-1449",
+        "state": {
+          "name": "Massachusetts"
+        }
+      }
+    ],
+    "assets": 162399000000,
+    "assetsEur": 132240280000,
+    "assetsGbp": 119389090000,
+    "assetsUsd": 162399000000,
+    "companyName": "Raytheon Technologies Corporation",
+    "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+    "employeesHere": 430,
+    "employeesHereRCode": "Actual",
+    "employeesTotal": 243200,
+    "employeesTotalRCode": "Actual",
+    "entityType": {
+      "id": "b36a3fb2-660c-3d07-a365-2c5740f91db5",
+      "name": "Parent"
+    },
+    "graveyardedAt": null,
+    "hasCompanyLogo": true,
+    "id": "0cdc1379-98d0-3fa3-8274-cc791c4ab981",
+    "industry": {
+      "code": "7",
+      "id": "b644065b-9aa5-3425-82c6-9e4a15b7abe7",
+      "shortDescription": "Aircraft Engine and Parts Manufacturing",
+      "sicCodeId": 7,
+      "source": "OS2010"
+    },
+    "isHQ": true,
+    "isStopDistribution": "",
+    "keyId": 29526,
+    "marketabilityStatus": "",
+    "numEmployees": 243200,
+    "onBritishDoNotCallList": false,
+    "ownershipType": {
+      "id": "ad198725-c924-3c6c-86ec-788baeb5ad1d",
+      "name": "Public"
+    },
+    "phone": "+1-781-522-3000",
+    "pinned": false,
+    "primaryCompetitorIds": [
+      "43863379",
+      "102898876",
+      "121610926"
+    ],
+    "primaryUrl": "http://www.rtx.com",
+    "primitiveType": "company",
+    "sales": 56587000000,
+    "salesEur": 49589078000,
+    "salesGbp": 44076355000,
+    "salesRCode": "Actual",
+    "salesUsd": 56587000000,
+    "score": 1,
+    "securities": [
+      {
+        "exchange": {
+          "quoteExchangeCode": "NYSE",
+          "stockExchange": "NYSE"
+        },
+        "tickerSymbol": "RTX"
+      }
+    ],
+    "smFacebookPage": "",
+    "smLinkedInCompanyId": "2426",
+    "smLinkedInPage": "",
+    "smTwitterHandle": "",
+    "suppressed": false,
+    "type": "company",
+    "vendor": {
+      "copyright": "\u00a9 2020 Dun & Bradstreet, Inc. All rights reserved.",
+      "displayName": "D&B",
+      "vendorFeedId": 110
+    }
+  }
+]
