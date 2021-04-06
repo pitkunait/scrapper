@@ -1,29 +1,24 @@
-from WebScrapping.Selenium.SeleniumService import SeleniumService
 import json
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.keys import Keys
-from json.decoder import JSONDecodeError
+
+from bs4 import BeautifulSoup
+
+from WebScrapping.Selenium.SeleniumService import SeleniumService
+
 scrapper = SeleniumService()
 
 
 def get_js_script(start):
     return """
     
-    var req = await fetch("https://app2.lead411.com/getMoreSearchResults", {
+    req = await fetch("https://app2.lead411.com/getMoreSearchResults", {
   "headers": {
     "accept": "*/*",
-    "accept-language": "en-GB,en;q=0.9,ru-RU;q=0.8,ru;q=0.7,et;q=0.6,en-US;q=0.5",
-    "cache-control": "no-cache",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
     "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-    "pragma": "no-cache",
-    "sec-ch-ua": "\"Google Chrome\";v=\"89\", \"Chromium\";v=\"89\", \";Not A Brand\";v=\"99\"",
-    "sec-ch-ua-mobile": "?0",
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
-    "x-csrf-token": "masWNT98GAFdYjsKKSLGOQqU6gIvFTsz6Bm8n4hx",
+    "x-csrf-token": "KXqsC3xURPOzfEdJ8ivmB1athoTmuifkAbcfYjCf",
     "x-requested-with": "XMLHttpRequest"
   },
   "referrer": "https://app2.lead411.com/searchpage/49919",
@@ -36,13 +31,39 @@ def get_js_script(start):
 
 res = await req.json()
 return res
-""".replace("%%%START%%%", start)
+""".replace("%%%START%%%", str(start))
 
 
+scrapper.driver.get('https://app2.lead411.com/login')
 
-scrapper.driver.get('https://app.dnbhoovers.com/login')
+scrapper.driver.find_element_by_id('login_email').send_keys('info@millennialbusinessbuilders.com')
+scrapper.driver.find_element_by_id('login_password').send_keys('6f647')
+scrapper.driver.find_element_by_css_selector("button[id='login']").click()
 
-scrapper.driver.find_element_by_id('username').send_keys('info@cordellandsonenterprises.com')
-scrapper.driver.find_element_by_css_selector("button[type='submit'][tabindex='3']").click()
-scrapper.driver.find_element_by_id('password').send_keys('Northface14!')
-scrapper.driver.find_element_by_css_selector("button[type='submit'][tabindex='2']").click()
+scrapper.driver.get('https://app2.lead411.com/searchpage/49919')
+
+for i in range(10000):
+    count = i * 50
+    leads = []
+    try:
+        print('Collecting', i)
+        g = scrapper.driver.execute_script(get_js_script(count))
+        soup = BeautifulSoup(g['htmlData'])
+
+        trs = [i for i in soup.find_all("tr") if "innerbg" not in i.attrs['class']]
+        for elem in trs:
+            company_name = elem.contents[2].find_all('a')[1].text
+            links = elem.contents[4].find_all('a')
+            name = links[0].text
+            email = links[2].text
+            leads.append({
+                'company_name': company_name,
+                'name': name,
+                'email': email
+            })
+
+        with open(f"working_dir/vassili/leads411/data/data_{i}.json", "w") as f:
+            json.dump(leads, f)
+
+    except Exception as e:
+        print(e)
