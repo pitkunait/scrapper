@@ -3,7 +3,8 @@ import json
 from bs4 import BeautifulSoup
 
 from WebScrapping.Selenium.SeleniumService import SeleniumService
-
+import numpy as np
+import threading
 scrapper = SeleniumService()
 
 
@@ -18,7 +19,7 @@ def get_js_script(start):
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
-    "x-csrf-token": "KXqsC3xURPOzfEdJ8ivmB1athoTmuifkAbcfYjCf",
+    "x-csrf-token": "qmFUvKG37dLfNfr2z8ml9XIz5f5AuQojbUlgafKs",
     "x-requested-with": "XMLHttpRequest"
   },
   "referrer": "https://app2.lead411.com/searchpage/49919",
@@ -42,7 +43,16 @@ scrapper.driver.find_element_by_css_selector("button[id='login']").click()
 
 scrapper.driver.get('https://app2.lead411.com/searchpage/49919')
 
-for i in range(10000):
+scrapper.driver.set_script_timeout(120)
+
+threads = 5
+
+total_range = [i for i in range(6472, 210830)]
+chunks = np.array_split(total_range, threads)
+
+
+
+for i in range(6472, 210830):
     count = i * 50
     leads = []
     try:
@@ -67,3 +77,13 @@ for i in range(10000):
 
     except Exception as e:
         print(e)
+
+thread_list = []
+
+for i in range(threads):
+    thread = threading.Thread(target=scrap, args=(chunks[i],))
+    thread_list.append(thread)
+    thread.start()
+
+for i in thread_list:
+    i.join()

@@ -2,7 +2,7 @@ import collections
 import json
 import os
 
-PATH = 'working_dir/vassili/dnb/data'
+PATH = 'working_dir/vassili/leads411/data'
 files = os.listdir(PATH)
 
 
@@ -17,17 +17,20 @@ def flatten(d, parent_key='', sep='_'):
     return dict(items)
 
 data = []
-count = 1
+count = 2
 
 for file in files:
-    with open('working_dir/vassili/dnb/data/' + file, 'r') as f:
+    with open('working_dir/vassili/leads411/data/' + file, 'r') as f:
         fil = json.load(f)
         for rec in fil:
             data.append(rec)
-        if len(data) > 50000:
-            print(count)
-            with open(f'working_dir/vassili/dnb/proc_data.nosync/{count}.json', 'w') as f:
-                json.dump(data, f)
-                data = []
-                count += 1
+
+import pandas as pd
+
+a = pd.DataFrame.from_records(data)
+a.to_csv('working_dir/vassili/leads411/proc_data/3.csv')
+with open(f'working_dir/vassili/leads411/proc_data/{count}.json', 'w') as f:
+    json.dump(data, f)
+    data = []
+    count += 1
 

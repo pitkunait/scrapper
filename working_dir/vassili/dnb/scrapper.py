@@ -42,8 +42,8 @@ scrapper.driver.find_element_by_css_selector("button[type='submit'][tabindex='3'
 scrapper.driver.find_element_by_id('password').send_keys('Northface14!')
 scrapper.driver.find_element_by_css_selector("button[type='submit'][tabindex='2']").click()
 
-bounds = [0.060, 0.061]
-count = 21150
+bounds = [0.127, 0.128]
+count = 46925
 for i in range(1000):
 
     bounds = [round(i+0.001, 3) for i in bounds]
